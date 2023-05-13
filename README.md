@@ -1,5 +1,7 @@
-### 👋 Hello!
-## 만나서 반가워요! 
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=Hello! 👋 <br> Kim Dong Geon&fontSize=90)
+
+<h3>만나서 반가워요!</h3> 
+<p>dasd</p>
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">
 
 <!--
