@@ -1,6 +1,6 @@
-### Hi there 👋
-
-<img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+### 👋 Hello!
+## 만나서 반가워요! 
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">
 
 <!--
 **ThioKDG/ThioKDG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
