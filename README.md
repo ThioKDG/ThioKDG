@@ -17,5 +17,5 @@
 <div align='center'>
     <h3>About me</h3>
      <a href="https://mail.google.com/mail/u/0/?fs=1&to=kim2006207@gmail.com&tf=cm"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=https://mail.google.com/mail/u/0/?fs=1&to=kim2006207@gmail.com&tf=cm"/></a>
-     <a href="https://thiokdg.github.io/ThioKDGportfolio/"><img src="https://img.shields.io/badge/PortFolio-181717?style=flat-square&logo=GitHub&logoColor=white&link=https://mail.google.com/mail/u/0/?fs=1&to=https://thiokdg.github.io/ThioKDGportfolio/"/></a>
+    <!-- <a href="https://thiokdg.github.io/ThioKDGportfolio/"><img src="https://img.shields.io/badge/PortFolio-181717?style=flat-square&logo=GitHub&logoColor=white&link=https://mail.google.com/mail/u/0/?fs=1&to=https://thiokdg.github.io/ThioKDGportfolio/"/></a> -->
 </div>
